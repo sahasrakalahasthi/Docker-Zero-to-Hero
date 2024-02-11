@@ -1,2 +1,3 @@
-FROM nginx:alphine
-COPY . /usr/share/nginx/html
+FROM httpd
+COPY . /usr/local/apache2/htdocs/
+
