@@ -1,5 +1,5 @@
 # Repo to learn Docker with examples. Contributions are most welcome.
-
+You can deploy a sample html application by following this link -> https://medium.com/@zul.m/deploying-a-static-html-site-with-docker-and-nginx-6f5bcdcbc650
 ## If you found this repo useful, give it a STAR 🌠
 
 You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
